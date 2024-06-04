@@ -9,7 +9,7 @@
 <div>
     <h1 align="center">The final look of the website</h1>
     <div align="center">
-        <img src="1.jpeg" width="49%">
+        <img src="https://github.com/Plutotech1/Pink-snow--leap-game/blob/main/IMG_4911.jpeg" width="50%">
     </div>
 </div>
 <br /><br />
